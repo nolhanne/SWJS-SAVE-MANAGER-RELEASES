@@ -6,7 +6,7 @@
 
 ## Download & run
 
-Open the [latest release](https://github.com/nolhanne/SWJS-SAVE-MANAGER-RELEASES/releases/latest) and download **JediSurvivorSaveManager.exe** when available. This is the portable edition: double-click it to launch, with no installer, Python or Git required. If the latest release is v3.1.0, its Setup EXE is the previous installer-based edition.
+[**Download JediSurvivorSaveManager.exe**](https://github.com/nolhanne/SWJS-SAVE-MANAGER-RELEASES/releases/latest/download/JediSurvivorSaveManager.exe) and double-click to launch. No installation, Python or Git required.
 
 ## Features
 
@@ -27,7 +27,7 @@ Only the original main save is retained in recovery; its associated game backups
 
 ## Updates & data
 
-The portable edition checks the public release channel. Updates are opt-in, and the executable must be in a writable folder. Your library, settings and recovery data are kept separately in `%LOCALAPPDATA%\JediSurvivorPracticeManager` so they survive updates.
+The app checks the public release channel. Updates are opt-in, and the executable must be in a writable folder. Your library, settings and recovery data are kept separately in `%LOCALAPPDATA%\JediSurvivorPracticeManager` so they survive updates.
 
 The executable is not code-signed. Windows may show a SmartScreen warning. Only download from this repository.
 
