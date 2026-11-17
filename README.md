@@ -2,7 +2,7 @@
 
 **A Windows save-swapping companion for STAR WARS Jedi: Survivor speedrunners.**
 
-[![Download latest release](https://img.shields.io/github/v/release/nolhanne/SWJS-SAVE-MANAGER-RELEASES?label=Download&style=for-the-badge)](https://github.com/nolhanne/SWJS-SAVE-MANAGER-RELEASES/releases/latest)
+[![Download latest release](https://img.shields.io/github/v/release/nolhanne/SWJS-SAVE-MANAGER-RELEASES?label=Download&style=for-the-badge)](https://github.com/nolhanne/SWJS-SAVE-MANAGER-RELEASES/releases/latest/download/JediSurvivorSaveManager.exe)
 
 ## Download & run
 
