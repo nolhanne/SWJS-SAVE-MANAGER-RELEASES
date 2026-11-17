@@ -15,7 +15,7 @@
 - Display and copy the previous save timestamp.
 - Protect important slots and restore original main saves from recovery history.
 - Add your own practice saves.
-- Automatic updates on launch.
+- Automatic update checks on launch.
 
 ## How to use
 
@@ -27,7 +27,7 @@ Only the original main save is retained in recovery; its associated game backups
 
 ## Updates & data
 
-The app automatically checks for and applies new stable releases on startup, then restarts. Keep the executable in a writable folder. If the update check or download fails, the current version remains usable. Your library, settings and recovery data are kept separately in `%LOCALAPPDATA%\JediSurvivorPracticeManager` so they survive updates.
+From v3.2.5, the app automatically checks for new stable releases on startup and offers to open the official EXE download in your browser. Close the current application before launching the new EXE. The app does not replace or run downloaded executables itself. If the update check fails, the current version remains usable. Earlier versions should be upgraded by downloading the latest EXE manually. Your library, settings and recovery data are kept separately in `%LOCALAPPDATA%\JediSurvivorPracticeManager` so they survive updates.
 
 The executable is not code-signed. Windows may show a SmartScreen warning. Only download from this repository.
 
