@@ -27,7 +27,7 @@ Only the original main save is retained in recovery; its associated game backups
 
 ## Updates & data
 
-From v3.2.5, the app automatically checks for new stable releases on startup and offers to open the official EXE download in your browser. Close the current application before launching the new EXE. The app does not replace or run downloaded executables itself. If the update check fails, the current version remains usable. Earlier versions should be upgraded by downloading the latest EXE manually. Your library, settings and recovery data are kept separately in `%LOCALAPPDATA%\JediSurvivorPracticeManager` so they survive updates.
+The app automatically checks for updates on startup. Accept an available update to open the official download in your browser and close the current application. Launch the newly downloaded EXE. On launch, the app can offer to move verified earlier releases in the same folder to the Recycle Bin; it only does so with your confirmation. It does not replace or execute downloaded program files. If the update check fails, the current version remains usable. Your library, settings and recovery data are kept separately in `%LOCALAPPDATA%\JediSurvivorPracticeManager` so they survive updates.
 
 The executable is not code-signed. Windows may show a SmartScreen warning. Only download from this repository.
 
