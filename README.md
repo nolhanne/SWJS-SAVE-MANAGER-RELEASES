@@ -2,11 +2,11 @@
 
 **A Windows save-swapping companion for STAR WARS Jedi: Survivor speedrunners.**
 
-[![Download latest release](https://img.shields.io/github/v/release/nolhanne/SWJS-SAVE-MANAGER-RELEASES?label=Download&style=for-the-badge)](https://github.com/nolhanne/SWJS-SAVE-MANAGER-RELEASES/releases/latest/download/JSSM-3.2.10.exe)
+[![Download latest release](https://img.shields.io/github/v/release/nolhanne/SWJS-SAVE-MANAGER-RELEASES?label=Download&style=for-the-badge)](https://github.com/nolhanne/SWJS-SAVE-MANAGER-RELEASES/releases/latest/download/JSSM-3.2.11.exe)
 
 ## Download & run
 
-[**Download JSSM-3.2.10.exe**](https://github.com/nolhanne/SWJS-SAVE-MANAGER-RELEASES/releases/latest/download/JSSM-3.2.10.exe) and double-click to launch. No installation, Python or Git required.
+[**Download JSSM-3.2.11.exe**](https://github.com/nolhanne/SWJS-SAVE-MANAGER-RELEASES/releases/latest/download/JSSM-3.2.11.exe) and double-click to launch. No installation, Python or Git required.
 
 ## Features
 
