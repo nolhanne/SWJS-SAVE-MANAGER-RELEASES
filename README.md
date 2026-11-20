@@ -19,7 +19,7 @@
 
 ## How to use
 
-1. Open the game and return to the main menu.
+1. Open the game
 2. Launch Save Manager, choose a library save, then select a disposable target slot.
 3. Confirm replacement, and load the slot in the game.
 
